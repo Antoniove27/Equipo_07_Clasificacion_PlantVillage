@@ -22,12 +22,12 @@ Equipo_07_Clasificacion_PlantVillage/
 ## Notebooks
 
 - `notebooks/01_entrega_02_version_inicial.ipynb`: primera versión del flujo de implementación del proyecto.
-- `notebooks/02_entrega_03_version_final.ipynb`: versión final del entrenamiento, evaluación y pruebas del modelo. Para la revisión final, se recomienda ejecutar principalmente este notebook.
+- `notebooks/02_entrega_03_version_final.ipynb`: versión final del entrenamiento, evaluación y pruebas del modelo.
 
 ## Aplicación en Hugging Face
 
 - `app_huggingface/v1/`: primera versión de la aplicación demostrativa en Gradio.
-- `app_huggingface/v2_final/`: carpeta reservada para la versión final de la aplicación. El archivo `HuggingFace_V2.rar` se conserva como respaldo original. Para publicar en Hugging Face Spaces o GitHub, se recomienda extraer el `.rar` y subir los archivos sueltos, por ejemplo: `app.py`, `README.md`, `requirements.txt` y `.gitattributes`.
+- `app_huggingface/v2_final/`: carpeta reservada para la versión final de la aplicación.
 
 ## Ejecución recomendada
 
@@ -45,14 +45,6 @@ notebooks/02_entrega_03_version_final.ipynb
 ```
 
 4. Verificar que el entrenamiento, la evaluación y las métricas se ejecuten correctamente.
-
-## Buenas prácticas consideradas
-
-- Los archivos se nombraron con numeración para indicar el orden relativo.
-- Las versiones previas se conservan sin mezclarlas con la versión final.
-- El código está organizado por notebooks y aplicación demostrativa.
-- Las fuentes externas y recursos adaptados deben citarse en `referencias/fuentes.md`.
-- Los comentarios del código deben mantenerse en español, según la indicación del curso.
 
 ## Integrantes
 
