@@ -59,4 +59,4 @@ notebooks/02_entrega_03_version_final.ipynb
 - 20220540 Regalado Reyes, Renzo Joaquin
 - 20220231 Velásquez Paredes, Ramón Antonio
 - 20221953 Olivares Cornejo, Marcelo Daniel
-- 20192506 Guzman Villalobos, Andre Luiz
+- 20192506 Guzman Vega, Shanti Jeremy
