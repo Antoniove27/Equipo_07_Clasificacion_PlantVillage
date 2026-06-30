@@ -46,13 +46,6 @@ notebooks/02_entrega_03_version_final.ipynb
 
 4. Verificar que el entrenamiento, la evaluación y las métricas se ejecuten correctamente.
 
-## Buenas prácticas consideradas
-
-- Los archivos se nombraron con numeración para indicar el orden relativo.
-- Las versiones previas se conservan sin mezclarlas con la versión final.
-- El código está organizado por notebooks y aplicación demostrativa.
-- Las fuentes externas y recursos adaptados deben citarse en `referencias/fuentes.md`.
-- Los comentarios del código deben mantenerse en español, según la indicación del curso.
 
 ## Integrantes
 
